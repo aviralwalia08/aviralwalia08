@@ -6,7 +6,7 @@
 
 - 🔭 Currently, I am pursuing my **Masters in Big Data Analytics**. I am a data scientist with 5+ years of expertise in analytics across various industries mostly financial services. I have driven significant business improvements through data analysis, machine learning, and predictive modeling. I am proficient in Python, SQL, Azure, and NLP and have delivered impactful insights and solutions.
 
-- 📒 I’m working on a **GEN-AI LLM PROJECT for my Master.**
+- 📒 I’m working on a **GEN-AI LLM PROJECT for my Master's.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aviralwalia08](https://github.com/aviralwalia08)
 
